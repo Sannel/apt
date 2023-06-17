@@ -1,12 +1,12 @@
-Origin: Example Repository
-Label: Example
+Origin: Sannel Software, L.L.C.
+Label: sannel
 Suite: stable
 Codename: stable
 Version: 1.0
 Architectures: amd64 arm64 arm7
 Components: main
-Description: An example software repository
-Date: Sat, 17 Jun 2023 00:44:59 +0000
+Description: Apt repo for Sannel Software Projects
+Date: Sat, 17 Jun 2023 00:54:31 +0000
 MD5Sum:
  f3ca0ff2153aa1d6f87160b056c99444 542 main/binary-arm64/Packages
  a1031d66b7ffcf64f1119f5b91689b40 393 main/binary-arm64/Packages.gz

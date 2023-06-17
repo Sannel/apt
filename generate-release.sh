@@ -15,14 +15,14 @@ do_hash() {
 }
 
 cat << EOF
-Origin: Example Repository
-Label: Example
+Origin: Sannel Software, L.L.C.
+Label: sannel
 Suite: stable
 Codename: stable
 Version: 1.0
 Architectures: amd64 arm64 arm7
 Components: main
-Description: An example software repository
+Description: Apt repo for Sannel Software Projects
 Date: $(date -Ru)
 EOF
 do_hash "MD5Sum" "md5sum"
