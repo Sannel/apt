@@ -10,7 +10,7 @@ $content = "Origin: Sannel Software, L.L.C.
 Label: sannel
 Suite: stable
 Codename: stable
-Version: $version
+Version: 1.0
 Architectures: arm64 armhf
 Components: main
 Description: Apt repo for Sannel Software Projects";
