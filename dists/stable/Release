@@ -6,16 +6,10 @@ Version: 1.0
 Architectures: amd64 arm64 arm7
 Components: main
 Description: Apt repo for Sannel Software Projects
-Date: Sat, 17 Jun 2023 05:47:19 +0000
+Date: Sat, 17 Jun 2023 17:53:16 +0000
 MD5Sum:
- 02f4e321671f0fa4378135d6d89d71d4 1778 InRelease
- b2388f0ecd412de378793e2d8bc71d8a 858 Release.gpg
- 86d616b8c1998d6f882d61a63416fd77 402 main/binary-arm64/Packages.gz
+ 0a15a91f8e1e0456d4152be8c7f86a97 402 main/binary-arm64/Packages.gz
 SHA1:
- 5e2bc6eb646e27f6c903a1757bd9bbb68f4d6efc 1778 InRelease
- c223e35bebda52682f20361b90d25842a83e53b8 858 Release.gpg
- dc7484f6e35631d8faa3e7803aeee965b74af411 402 main/binary-arm64/Packages.gz
+ 5fa91df4dd5950fdf843ed053de6f4269fb6a98d 402 main/binary-arm64/Packages.gz
 SHA256:
- 7a338bec20f2a2769c73c5cea5f85e18a80d851087c076a24c87af37ad29f8cf 1778 InRelease
- d8fc818f85242061b002147cc2606cf22b4256479700b08e17fd65843f8bb857 858 Release.gpg
- f9289e1ae4116ac91d564a398349e18b842c910368bb7cf0a00a676060d16a96 402 main/binary-arm64/Packages.gz
+ d2395f4b69a57689079c376f6d7d54fb4f0684bac5b70ebaea068a8994fa5a5a 402 main/binary-arm64/Packages.gz
