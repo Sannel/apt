@@ -1,6 +1,19 @@
 Package: sannel.house.sprinklers
 Maintainer: Adam Holt <holtsoftware@outlook.com>
 Architecture: arm64
+Version: 0.2.1-2
+Filename: pool/main/s/sannel.house.sprinklers/sannel.house.sprinklers_0.2.1-2_arm64.deb
+Size: 45458040
+MD5sum: bb1203907a35a37659bc8c9f25c373d9
+SHA1: 55e48e026ba7f1fa120b12efd418874dece936db
+SHA256: 4b7d86c49ebdbc11ca3eb5c2ff74db1818803ddd60bb33e44ce0543bf6ccd57e
+SHA512: 7e2983996ef1f66c9b1210b163fb1a95e70b61aa6bdd73ff8b7c746566a776be5fea11b05a522cf8de2286890b81549798bff37f099479df7c640847038c0407
+Description: Firmware to run a sprinkler system off of a raspberry pi (Currently only supports OSRPI)
+Homepage: https://github.com/Sannel/Sannel.House.Sprinklers
+
+Package: sannel.house.sprinklers
+Maintainer: Adam Holt <holtsoftware@outlook.com>
+Architecture: arm64
 Version: 0.2.1-1
 Filename: pool/main/s/sannel.house.sprinklers/sannel.house.sprinklers_0.2.1-1_arm64.deb
 Size: 45457940
