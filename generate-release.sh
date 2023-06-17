@@ -20,7 +20,7 @@ Label: sannel
 Suite: stable
 Codename: stable
 Version: 1.0
-Architectures: amd64 arm64 arm7
+Architectures: arm64
 Components: main
 Description: Apt repo for Sannel Software Projects
 Date: $(date -Ru)

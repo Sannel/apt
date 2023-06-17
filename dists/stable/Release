@@ -3,15 +3,15 @@ Label: sannel
 Suite: stable
 Codename: stable
 Version: 1.0
-Architectures: amd64 arm64 arm7
+Architectures: arm64
 Components: main
 Description: Apt repo for Sannel Software Projects
-Date: Sat, 17 Jun 2023 17:58:47 +0000
+Date: Sat, 17 Jun 2023 18:09:30 +0000
 MD5Sum:
- d292e619fb386f4a9e84009d41a3accc 402 main/binary-arm64/Packages.gz
+ 8314660d0b1efc3b2320cf99df6303d5 402 main/binary-arm64/Packages.gz
 SHA1:
- 0aaf0976fc7715ed9a7ac247aa473f47959daf3d 402 main/binary-arm64/Packages.gz
+ 153dc160b5cf4e269d9d3c052a7e71aedae062e3 402 main/binary-arm64/Packages.gz
 SHA256:
- 9b7d91e2cf263fd183cd6eed70c8eb51232502059c45f4f8c1a3003c777de0b7 402 main/binary-arm64/Packages.gz
+ 0a2cb1b303be166a01b6ecad63266f4b38483854540a13996cb69a88704639a6 402 main/binary-arm64/Packages.gz
 SHA512:
- dd72a4c41afe690dda2c435d714f5ec80bedfdde67aeeac2106d82bc7a9a081ea2e8c5aeba14fa7e37b5cb9ed893874e5b8744c26b68aca88dc34eef4a764a2f 402 main/binary-arm64/Packages.gz
+ e354ae38bb874b0583a51549a3c83d5259a8e2cba9fec9f7eff305f7699555a41feae5eed52fd99771d427df3a40e83d06d9ea3317d07c5d947427008092eb3d 402 main/binary-arm64/Packages.gz
