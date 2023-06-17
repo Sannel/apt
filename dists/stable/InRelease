@@ -5,41 +5,49 @@ Origin: Sannel Software, L.L.C.
 Label: sannel
 Suite: stable
 Codename: stable
-Version: 2023.06.17.12.56
-Architectures: arm64
+Version: 2023.06.17.01.14
+Architectures: arm64 armhf
 Components: main
 Description: Apt repo for Sannel Software Projects
-Date: Sat, 17 Jun 2023 18:56:05 +0000
+Date: Sat, 17 Jun 2023 19:14:12 +0000
 MD5Sum:
- a5082c1a82bcd46a4acee055f09d9978              230 dists/stable/Release
+ 722676eb04fb2a915232cea273aced35              236 dists/stable/Release
  620ff5f2ea0d252255ecf10c991b59ac              679 dists/stable/main/binary-arm64/Packages
- be432a7f42036140e7b21f679f7f799a              486 dists/stable/main/binary-arm64/Packages.gz
+ fd31b771da9de2e6388b16e97137c390              486 dists/stable/main/binary-arm64/Packages.gz
+ d41d8cd98f00b204e9800998ecf8427e                0 dists/stable/main/binary-armhf/Packages
+ 5f73ed772b78d1ee46a9921edeea3a4a               29 dists/stable/main/binary-armhf/Packages.gz
 SHA1:
- 3214f5eb2826ccf9c2e66535cfb507ef17df0cef              230 dists/stable/Release
+ c65cb092b5a9d935a6a6fd36125103975f93e415              236 dists/stable/Release
  a413f3de0cc79220829b2adbc6af7c469e8617c6              679 dists/stable/main/binary-arm64/Packages
- 7c02d8a711efb05f002d1a8d70ab9655e28af5e7              486 dists/stable/main/binary-arm64/Packages.gz
+ b9e60bb0ea55408b4861b4440c7c02bd2c99cafa              486 dists/stable/main/binary-arm64/Packages.gz
+ da39a3ee5e6b4b0d3255bfef95601890afd80709                0 dists/stable/main/binary-armhf/Packages
+ 3317fc53d481d8cf9a9f0d33140ecb0cbf4074dc               29 dists/stable/main/binary-armhf/Packages.gz
 SHA256:
- 7f3cfdea7a00fcddb8d3313b786d067bbfa6cb4e991d07f51bc09293304bc70d              230 dists/stable/Release
+ 303e63a24abdd77c167a13ea8a3482e44f438aa6f583f8fef81513aebc26062a              236 dists/stable/Release
  e73fbfce60bc43ac6f7b145b51c2b75edd00db49bc4b51d8dbbde0c5b5f83d3a              679 dists/stable/main/binary-arm64/Packages
- 535000691559b1937783943e0c9002363a0fac208043fd93082cff921ed35eb5              486 dists/stable/main/binary-arm64/Packages.gz
+ f6a5093fe90ed9a9234f0a40ac895a4e0347814a7e07599ca20159077e99b96d              486 dists/stable/main/binary-arm64/Packages.gz
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855                0 dists/stable/main/binary-armhf/Packages
+ 3f784993b421a6a71daa65c0bad56e2fcdf7b68e3b2350518db186503768857c               29 dists/stable/main/binary-armhf/Packages.gz
 SHA512:
- e91bb3c94e629866d159be57aa0566e081588e7d30b00df5fa4e4704d8b036dd09158d63be4f7b2754f08dfd46039f7b9fdbb236e7330ebca43fcc2fb4813d6f              230 dists/stable/Release
+ 84f503a04f2cfbe42686e130155450adec560048009a80021bc14e2b2401596c3ec36c03c4780a058a44d3bdde5aee7d2c912e2386b7def53f12eb3a43193938              236 dists/stable/Release
  e4cca97f0160583aa6d7eb7e1454f1a18ec6d6d54a591f3d3f92e72157d85cf9a63bee17b105b7f6eba8f516fb39e9eb06690199570e5015de2338f3977df3a2              679 dists/stable/main/binary-arm64/Packages
- 9206ee4da6d6196e0eec2305e45a88d3530e54d0a8fbed21a4eab0444b156996e9068cb4e7e10af2b2123978e6ee89b73c99b52980bcb497b3649544889e87cc              486 dists/stable/main/binary-arm64/Packages.gz
+ a7aa0e5705444a67b79426735e14dbd3ed67aa8f4b604173710fc00c430c3fb96ea5a6c91c55c3e18dcff0d76be654e37895db72bcfc4c3aa3fae7d8f5104949              486 dists/stable/main/binary-arm64/Packages.gz
+ cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e                0 dists/stable/main/binary-armhf/Packages
+ 1dccc5c0206e2c109c115a1239dd4250c83bc97e85ae835a7c4baa2e033a8624e9890279b63f2fffefff39a8a571d5c76a3e2d70dfe34d577548de6be09e8de5               29 dists/stable/main/binary-armhf/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iQJFBAEBCgAvFiEE+v+ZLBteEoBqR8cMNqBJiGw/o4oFAmSOAcwRHGFob2x0QHNh
-bm5lbC5jb20ACgkQNqBJiGw/o4qTahAApr8Ne7ZSLcaH+c4b70OdYjfMHz/9roqI
-8nXmNEGw0OXMSN23D/xBjrReKDbNuc2xPQSeb28WYRktV9uEWIupkrVt8rBgQXua
-Aii8OzgUQmYcKXmz0Ee8SpfASjzvjBAFvnviofpbP6llncA/S7g5PqUzMbUrVbDQ
-MEsSk+t6w+WgCfP6v9n3/XaFkwR8qcSnjMHK7d/E9QRQiSVSJehEIahn5PAfChvV
-z0xNsTOK6wmUki3tfte7bNdEz3e2zGpw+jQbvrxHlKpQj7lAhH2vU49GO+e++nEs
-TD49UaPQ5FjvOy9nRFv85J8ujxbWs+msk99GzPXhEYW1pEIKFb7YGaZQrQBO2YK5
-qEcJSbHr49CDWGoAknSgHeoKGpKRD8aXLU+LzDtlB4RGJG5mEFEpIjxDIV7sqJRB
-BX40SEV7cALqNZf9ItLzZLi18v8g6fGBvS0iUHkT2TSdrxKTGmSgqs77/5UbU9OM
-R0n4/APZgc7yEGeRiPQTKrtV4ZdtPUXcfB/IC5V8OW0HRT6mp1qDUnMa636dnSsT
-/Yk42d4/p6V5cf8tKsbMrYxEq1bx+dzX8oomkDywi1/4Asf5A697zQ9n27PJzuB2
-wQj7C5zMG6i8uPSyOH8IX+EkS+F7HhNzgV5cpVhjmuVNdz2JLJ7u6QEIJ4lc668e
-9cO5RSznlzc=
-=RUbH
+iQJFBAEBCgAvFiEE+v+ZLBteEoBqR8cMNqBJiGw/o4oFAmSOBlcRHGFob2x0QHNh
+bm5lbC5jb20ACgkQNqBJiGw/o4r4BQ//YxpAmgwQaPgjQ0X+GnNjNNrrrg99CC7Q
+BZB2et3ADhVjY6qgQcsTQH4Ag0tdPcbSsjf8fqWXiR8frEHOwV4yP0kKfrJPY0jt
+zWfnAHYlIBqGy6L9KXPOWKV5xx98shgBtJnXeB8Dd63t55Q0vkuuunqpiEvTBHZA
+Z+xnzca9LtgVQX1qi7MbRCXb+FUzM7xlNFBL10uuwHvqzhO1mQOSkz1tSwER+aRZ
+b+217asB3d9LsVpk6jz/seaOgRl7HdEMvUlhqmG71SzQBn1+K4Nk++aqhtYE8h3J
+oQrl68YV5kPIuERkzfX03prQcyV7bYWPqvxfmnIlCsdCZ87si/Ig9TbgFh/b1rcO
+RThcr2NNC5DeEGft6Mh5HsJowwmm7ifK/njvwAiwRX4unYiMODnPGiwjO1iiAsGI
+hWx+L09JGmfhHNhrygVmwO1oNw5bHlsyV38TTd04ZW8E/malMofkscZK5EpaJhlQ
+KBj2+tDcpGT+JTqfB8UjC5fmef/Zw5Akd9XDYzG98Okq/D6y6Z0Uu88U75SVm6TD
+oCImR+IvKmTFIBNwmMdDJJtKqAk+hubWTdv4cKo2iwWzNQGY02jbMCpb6yrV1z7P
+dNnjghdTt5VWC2tm8QF4OHO9h2obqnn+qImqceYm0b9BpHGSwYsRMaeo3e/5Rj47
+76iWfMzF8jw=
+=10d8
 -----END PGP SIGNATURE-----
