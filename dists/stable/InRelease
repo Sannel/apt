@@ -9,36 +9,33 @@ Version: 1.0
 Architectures: amd64 arm64 arm7
 Components: main
 Description: Apt repo for Sannel Software Projects
-Date: Sat, 17 Jun 2023 04:06:42 +0000
+Date: Sat, 17 Jun 2023 05:28:15 +0000
 MD5Sum:
- ab69fc0187c4b1dcf1a935ef3b432227 2016 InRelease
- b3d7122ac2622c86338d419d6b3485e0 858 Release.gpg
- d9e609d407881fee61bb7072d1abab82 1084 main/binary-arm64/Packages
- 5f74521466fc9d0074a2b6c46a85a8d4 876 main/binary-arm64/Packages.gz
+ 5f431f55929a10d9d2255239e7db1259 2016 InRelease
+ 02fd44b0ec0cf6221d86885507fb5f26 858 Release.gpg
+ 586bd5848eb245eb8156ecb9502f96da 508 main/binary-arm64/Packages.gz
 SHA1:
- e7b596e5b74989dcc2abbba98e778ed939d0a9ea 2016 InRelease
- d91b4aae7ec60e4e6d9b7e07beb225352fb28e3e 858 Release.gpg
- 365aea3dcdeec23aa7bfeecde0b0509ca1544164 1084 main/binary-arm64/Packages
- d72336bb807888d0f573395dcb2312cd80678ecb 876 main/binary-arm64/Packages.gz
+ de0b4d0dbcacab04c8f0868be616114fdab5d4e2 2016 InRelease
+ 398d418288c332e4efd0502be7579d9e225882eb 858 Release.gpg
+ ffdffd448e4a76bde09878b7099db2b782e08f7e 508 main/binary-arm64/Packages.gz
 SHA256:
- edb2f8cc067f75700d6d482981ee452c086e639f9c9f8e10f96dc375ddda24c2 2016 InRelease
- 0fc1aa878d4ede01f8bcbf396718dd93c7bf13c07a371cae5dc5c86508407ae1 858 Release.gpg
- 266db0c4ae07c2d49604ed3f6b7e6104a82ef18057c53a1f47ecca76699caed6 1084 main/binary-arm64/Packages
- a96a1413ba5b29e34b8606d72fa96151ea7cd4b045383833fea549a1233a3f9c 876 main/binary-arm64/Packages.gz
+ e3b5c1687331da3190a7c28c610b6c9e8798c1f2966f08c946627be47ff1194e 2016 InRelease
+ c711167c2bc1b4471fa8eb82ff09d14f801299517235f569271a167cb9c48733 858 Release.gpg
+ 94c3d2b37841be06e71468d600ae778b1ed524a5761f8434c2b566189f5c1c1d 508 main/binary-arm64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iQJFBAEBCgAvFiEE+v+ZLBteEoBqR8cMNqBJiGw/o4oFAmSNMWARHGFob2x0QHNh
-bm5lbC5jb20ACgkQNqBJiGw/o4ozUhAAmmTK4dHWdDUNCmUZOGSzDLtuMCUMWDpq
-aR6w0zLXaI3BxvoXQUp9JL+nzp4rwZa0VABBAiN9HKMKZaUcHDFWBfO8OeB08BC/
-KR6u+PvP0LA8Luwy7uGA26bNZoyNGlbV1G5VtRAH2M9SiA4RZ9P4xtj9ZuHBtCtQ
-/Bfv5ZSAW01efqBDWeyNsTiBQ/p4NOOF7+t/iGJjIIK2h51C5f8oM0YEAi9RyRux
-Ny+qQUdg96+Ifin03Nvi8tR1p1lPdK/P3Mw+xakhl222AoBVD6ySqfTVO6l7GE8L
-muPJUEYo3Y5UjKGP6DV6QGeqAC7sekls4jJqwS+0M638eyOq44e+X5gG/a9dLjKF
-FVhtCCWYejgjvkKIqySeQnacmp80bx4UGGjodi8dqcJkyuWC+gY4FaLnQzK0+rl7
-Qj9oVzHAfgep6M3ZELyUKdPzOV3FXTM/qJR8qd1gWD0YIvl2xKUXdEVvorspdu7h
-zTg2a+pTHPr49+cwsipTj7r6rXhc8H0UewzkKAPwKoij/f92lGkx30/WLIktXDHa
-igAuvXClGqA3X6gvur6FxwVA1lxLA1i75hUKHtB0yYx+pzxlRN2aNlWO2BpV8tnr
-ax0c4qQi8vwdzllD9c4ABJaDJ2V4/j8KYlQ02muCebQNN5On3fkqkodEwJK/h3ZS
-9VoS9CVfuOc=
-=uGpQ
+iQJFBAEBCgAvFiEE+v+ZLBteEoBqR8cMNqBJiGw/o4oFAmSNRHoRHGFob2x0QHNh
+bm5lbC5jb20ACgkQNqBJiGw/o4ogexAAmzvab3wbeQ0LL0lDIvh2j7FzTZ2jgnkF
+L7XetoHGTWuBh37wQwAUyaXmVHQjwxsazqQzdQh2bkiAsfesnumWhGv64GkQOnQJ
+oVoo5OSHc+MgCF6C9Dpi4QNUXibpR5gSWgPJj2n7J44ZM4KmE1LqGIb+CmARGa51
+IRVVY22Q3Sx4jgqTn5+Dmh2Thqr1qfV9FQS7FFDn7QkU4xWOoZO12eQWZZB2S0NZ
+m/M3QVFiYgXaER+QqpBaUukYcu4naP45ItNlxzoQyPuMsRp94V1R4pfUkkm/JE6f
+hLe/o9E7RBFAMLSvRxYR6IPmoAE9z+WS68wyyldXd+Uui61DLqBtry6bqhKeVPhD
+RDXwnpeyMe2TF/1s8NeXTgCDylOWHrIaMSjOCMZZ8UzdtCWG2G0QnIeTCfrh54uE
++lIHWyYbz9WEwLPIomfCfA5jacQegUMmzCecAaWGsAoWpa8icxKpPQC6r21okHuX
+tQL3D+QtLrgDjjpqC56knhSOGWQPkoxFXek4UbuMBUCXPzB4v5zNIf3Cyii4nbHy
+pwF73POwi6Yw6XHL1kWKEedTDZy6YQmKQb4l/9lxztlbr52Tcv0Z9M4jkZRM7cDv
+hXfUi9KeTEHVl3g6IRugMAoPAyekaS+ZF3MF1tJbDlfgxDofpU56gqAeiFzrjCVi
+c7pzjjxumfA=
+=ZSZr
 -----END PGP SIGNATURE-----
