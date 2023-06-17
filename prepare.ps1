@@ -11,7 +11,6 @@ Codename: stable
 Version: $version
 Architectures: arm64
 Components: main
-Description: Apt repo for Sannel Software Projects
-";
+Description: Apt repo for Sannel Software Projects";
 Set-Content ./dists/stable/Release -Value $content
 apt-ftparchive release . >> ./dists/stable/Release
