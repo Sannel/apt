@@ -1,17 +1,26 @@
-Date: Sat, 17 Jun 2023 18:26:38 +0000
+Origin: Sannel Software, L.L.C.
+Label: sannel
+Suite: stable
+Codename: stable
+Version: 2023.06.17.12.46
+Architectures: arm64
+Components: main
+Description: Apt repo for Sannel Software Projects
+
+Date: Sat, 17 Jun 2023 18:46:39 +0000
 MD5Sum:
- 414d0c850401333f56b7cd2338c2122b               38 dists/stable/Release
+ 7f17573d6c8f851880819eb1940dbafe              231 dists/stable/Release
  620ff5f2ea0d252255ecf10c991b59ac              679 dists/stable/main/binary-arm64/Packages
- 0502f4bcdb44dc6cd99c75343b37b69e              486 dists/stable/main/binary-arm64/Packages.gz
+ 7ec04a2fb8536eff6327bdcdc7a97fcd              486 dists/stable/main/binary-arm64/Packages.gz
 SHA1:
- 5eb528c2b7bd08f92544cfcda13101803aecacce               38 dists/stable/Release
+ 960e8131e82bbe813136e72e33ee4320c50cb057              231 dists/stable/Release
  a413f3de0cc79220829b2adbc6af7c469e8617c6              679 dists/stable/main/binary-arm64/Packages
- ecd4942eb3a7281fb70c24ef411a8adc9d86bbd7              486 dists/stable/main/binary-arm64/Packages.gz
+ 46f6603fc7538888ee11104d8f66aabd5a9ec54d              486 dists/stable/main/binary-arm64/Packages.gz
 SHA256:
- aace932d74bbcd558e17e01bc22824c6c0b835a21c820e4e33f130525b686c7f               38 dists/stable/Release
+ a8d319d9cf6abf4f1fbb7bc0d1414772bf27d39d202d4ed6b720552a24fa64eb              231 dists/stable/Release
  e73fbfce60bc43ac6f7b145b51c2b75edd00db49bc4b51d8dbbde0c5b5f83d3a              679 dists/stable/main/binary-arm64/Packages
- edfc84eea7d1242054b1ef93bba134f6d15dec79d882add75d111179885a23aa              486 dists/stable/main/binary-arm64/Packages.gz
+ 6683cf20569b8245e0122f0ca3ee567705ffe3e9eec20ae79a9bd11703647b20              486 dists/stable/main/binary-arm64/Packages.gz
 SHA512:
- a398556e6149af9620ff31bd0a68a76686d6d5193f5ef329babc0dd72b45ade9f0b5ab7e7219fc2f0667b172ffdabc65e972ed55c5b7d3138dc6394296c433c3               38 dists/stable/Release
+ 049d5e477b633edd36e2b819dcc0b9122fbb17412a00f4d28559db0a8f69bc2babeb389dc405ace39bb6c2d57a9c6a62619a8dfe880f351518c38d0046508b38              231 dists/stable/Release
  e4cca97f0160583aa6d7eb7e1454f1a18ec6d6d54a591f3d3f92e72157d85cf9a63bee17b105b7f6eba8f516fb39e9eb06690199570e5015de2338f3977df3a2              679 dists/stable/main/binary-arm64/Packages
- a19d828c7210b194f481635c172e02f91d0fedfb2a463ecbb967db36fef3a646eca471c90565311427330dabcd68775f9efb60699b135c2fd0c9c8403dc57f8e              486 dists/stable/main/binary-arm64/Packages.gz
+ bf40d4504bd6c51633e024541096409ba31ef6f0cb42f53d90c528a3a8fbd5879f085a95fb5394d01ae77954834ec0fa597e96ba74ed4185e2d508eaff3eec3d              486 dists/stable/main/binary-arm64/Packages.gz
