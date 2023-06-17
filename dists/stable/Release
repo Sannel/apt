@@ -1,17 +1,17 @@
-Origin: Sannel Software, L.L.C.
-Label: sannel
-Suite: stable
-Codename: stable
-Version: 1.0
-Architectures: arm64
-Components: main
-Description: Apt repo for Sannel Software Projects
-Date: Sat, 17 Jun 2023 18:09:30 +0000
+Date: Sat, 17 Jun 2023 18:26:38 +0000
 MD5Sum:
- 8314660d0b1efc3b2320cf99df6303d5 402 main/binary-arm64/Packages.gz
+ 414d0c850401333f56b7cd2338c2122b               38 dists/stable/Release
+ 620ff5f2ea0d252255ecf10c991b59ac              679 dists/stable/main/binary-arm64/Packages
+ 0502f4bcdb44dc6cd99c75343b37b69e              486 dists/stable/main/binary-arm64/Packages.gz
 SHA1:
- 153dc160b5cf4e269d9d3c052a7e71aedae062e3 402 main/binary-arm64/Packages.gz
+ 5eb528c2b7bd08f92544cfcda13101803aecacce               38 dists/stable/Release
+ a413f3de0cc79220829b2adbc6af7c469e8617c6              679 dists/stable/main/binary-arm64/Packages
+ ecd4942eb3a7281fb70c24ef411a8adc9d86bbd7              486 dists/stable/main/binary-arm64/Packages.gz
 SHA256:
- 0a2cb1b303be166a01b6ecad63266f4b38483854540a13996cb69a88704639a6 402 main/binary-arm64/Packages.gz
+ aace932d74bbcd558e17e01bc22824c6c0b835a21c820e4e33f130525b686c7f               38 dists/stable/Release
+ e73fbfce60bc43ac6f7b145b51c2b75edd00db49bc4b51d8dbbde0c5b5f83d3a              679 dists/stable/main/binary-arm64/Packages
+ edfc84eea7d1242054b1ef93bba134f6d15dec79d882add75d111179885a23aa              486 dists/stable/main/binary-arm64/Packages.gz
 SHA512:
- e354ae38bb874b0583a51549a3c83d5259a8e2cba9fec9f7eff305f7699555a41feae5eed52fd99771d427df3a40e83d06d9ea3317d07c5d947427008092eb3d 402 main/binary-arm64/Packages.gz
+ a398556e6149af9620ff31bd0a68a76686d6d5193f5ef329babc0dd72b45ade9f0b5ab7e7219fc2f0667b172ffdabc65e972ed55c5b7d3138dc6394296c433c3               38 dists/stable/Release
+ e4cca97f0160583aa6d7eb7e1454f1a18ec6d6d54a591f3d3f92e72157d85cf9a63bee17b105b7f6eba8f516fb39e9eb06690199570e5015de2338f3977df3a2              679 dists/stable/main/binary-arm64/Packages
+ a19d828c7210b194f481635c172e02f91d0fedfb2a463ecbb967db36fef3a646eca471c90565311427330dabcd68775f9efb60699b135c2fd0c9c8403dc57f8e              486 dists/stable/main/binary-arm64/Packages.gz
